@@ -4,4 +4,8 @@ hello world
 nihao
 tangyahong
 Creatig a new branch is quick
-Creating a new branch is quik & simple
+<<<<<<< HEAD
+Creating a new branch is quik and simple
+=======
+Creating a new branch is quick and simple.
+>>>>>>> feature1
