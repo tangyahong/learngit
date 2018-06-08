@@ -3,3 +3,4 @@ Git is free software.
 hello world
 nihao
 tangyahong
+Creatig a new branch is quick
